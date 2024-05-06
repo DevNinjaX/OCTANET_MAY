@@ -110,11 +110,11 @@
     }
 
     nav .leftChild h2 {
-        top: 0;
+        top: -2px;
     }
     
     nav .leftChild h4 {
-        top: 0;
+        top: 2px;
     }
 
     nav label {

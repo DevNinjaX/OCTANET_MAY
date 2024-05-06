@@ -117,7 +117,7 @@
         position: fixed;
         background: #fada50;
         top: 73px;
-        right: 0%;
+        right: -100%;
         width: 70vw;
         height: 25rem;
         display: flex;
@@ -132,7 +132,7 @@
     }
 
     nav input:checked~.rightChild {
-        right: -100%;
+        right: 0%;
     }
 
     /* all section */

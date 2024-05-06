@@ -106,7 +106,15 @@
     }
 
     nav .leftChild {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
+    }
+
+    nav .leftChild h2 {
+        top: -4px;
+    }
+    
+    nav .leftChild h4 {
+        top: 4px;
     }
 
     nav label {
